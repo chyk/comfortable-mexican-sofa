@@ -9,3 +9,6 @@ rvm:
   - 2.2.4
 gemfile:
   - test/gemfiles/Gemfile.rails.4.2
+ branches:
+    only:
+      - rails424ruby224
